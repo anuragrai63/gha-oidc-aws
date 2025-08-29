@@ -116,7 +116,7 @@ EOF
 
 
   tags = {
-    Name = "tf-instance-gha-oidc"
+    Name = "tf-instance-gha-oidc-aws"
   }
 
 
